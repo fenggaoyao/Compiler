@@ -9,7 +9,7 @@
 # Build results
 
 # Visual Studio 2015 cache/options directory
-**/.vs/
+.vs/
 
 [Dd]ebug/
 [Rr]elease/
